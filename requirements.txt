@@ -1,0 +1,5 @@
+corsheader
+djangorestframework
+djangorestframework-jwt
+python-dotenv
+requests
